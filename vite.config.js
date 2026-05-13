@@ -4,3 +4,4 @@ export default defineConfig({
   plugins: [react()],
   base: '/MQ7/', 
 })
+
