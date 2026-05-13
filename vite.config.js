@@ -5,4 +5,3 @@ export default defineConfig({
   base: '/MQ7/', 
 })
 3.  **في GitHub:** ادخل على ملف `src/App.jsx` والصق الكود الكامل الذي وفرته لك بالأعلى (بين سطر 18 وسطر 215).
-
