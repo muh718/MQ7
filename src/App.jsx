@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { User, Users, RefreshCw, Trophy, AlertCircle, XCircle, ChevronLeft, BookOpen, Atom, Globe, History, Brain, Calculator, Trophy as SportIcon } from 'lucide-react';
-import { questionsBank } from './questions_data';
+import { questionsBank } from './questions.js';
 
 const ROWS = 5;
 const COLS = 5;
